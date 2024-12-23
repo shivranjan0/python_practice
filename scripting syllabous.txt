@@ -1,0 +1,11 @@
+scripting syllabus
+
+
+
+1.sys module
+2.os module
+3.subprocess
+4.math
+5.random
+6.date time
+7.json
